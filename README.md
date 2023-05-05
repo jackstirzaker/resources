@@ -1,2 +1,1 @@
-# resources
-Web design and development resources
+# Web design and development resources
