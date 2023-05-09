@@ -64,6 +64,7 @@ Also helpful: [Spark Joy](https://github.com/sw-yx/spark-joy)
 - [UIverse](https://uiverse.io/)
 - [Holographic & Iridescent](https://fffuel.co/hhholographic/)
 - [Shuffle.dev UI](https://shuffle.dev/)
+- [Landing Page Templates](https://htmlrev.com/)
 
 ## Infrastructure
 
@@ -75,3 +76,47 @@ Also helpful: [Spark Joy](https://github.com/sw-yx/spark-joy)
 - [Front-End Performance Checklist](https://www.smashingmagazine.com/2021/01/front-end-performance-2021-free-pdf-checklist/)
 - [Waterfaller: Fix Slowdowns](https://waterfaller.dev/)
 - [Fuite: Find Memory Links](https://github.com/nolanlawson/fuite)
+
+### Platforms
+- [Hostman](https://hostman.com/pricing/)
+- [Vercel](https://vercel.com/)
+- [Firebase](https://firebase.google.com/)
+- [Strapi CMS](https://strapi.io/)
+- [Webiny CMS](https://www.webiny.com/)
+- [Microfeed](https://github.com/microfeed/microfeed)
+- [Play](https://www.createwithplay.com/)
+- [Caddy Server](https://caddyserver.com/)
+- [Deta Cloud](https://www.deta.sh/)
+
+### Security & Privacy
+- [Security Guide](https://www.icloud.com/iclouddrive/03fHO3EkdDni46-1ysIhbOxEA#Startup's_Guide_to_Application_Security)
+- [How to secure anything](https://github.com/veeral-patel/how-to-secure-anything)
+- [Lucia Auth](https://github.com/pilcrowOnPaper/lucia)
+- [Logto SSO](https://github.com/logto-io/logto)
+- [Etebase: Encrypted Backend](https://www.etebase.com/)
+- [Auth.js](https://authjs.dev/)
+- [Auth0](https://auth0.com/)
+
+### Marketing & Ads
+- [umami](https://umami.is/)
+- [Carbon Ads](https://www.carbonads.net/)
+- [Previewed Mock-ups](https://previewed.app/)
+- [Screen](https://screen.traction.one/)
+- [SE Ranking](https://seranking.com/)
+- [Actionable SEO Tips](https://superseo.tips/)
+- [Aurora Cookie-Free Analytics](https://www.useaurora.app/)
+- [Mail Studio](https://mailstudio.app/)
+- [Keila](https://keila.io/)
+- [SaaS Metrics Guide](https://youtube.com/watch?v=DceOkRXHqf8)
+- [Pexel Socials Kit](https://www.pexel.xyz/)
+- [Placeholder Text](https://uicontent.co/)
+- [Logggos](https://www.logggos.club/)
+
+### Accessibility
+- [a11yresources](https://a11yresources.webflow.io/)
+- [Modern Font Stacks](https://modernfontstacks.com/)
+- [Bite-Sized Accessibility](https://bite-sized-a11y.com/)
+- [Inclusive Components](http://inclusive-components.design/)
+- [Randoma11y](https://randoma11y.com/)
+
+## Flair
