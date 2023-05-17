@@ -14,6 +14,7 @@
 - [Idiot-Proof Git](https://softwaredoug.com/blog/2022/11/09/idiot-proof-git-aliases.html)
 - [There's an AI...](https://theresanaiforthat.com/)
 - [Create App: Build Config](https://createapp.dev/)
+- [SnyPy Code Snippet Manager](https://snypy.com)
 
 ### JavaScript
 
@@ -70,6 +71,7 @@
 - [Holographic & Iridescent](https://fffuel.co/hhholographic/)
 - [Shuffle.dev UI](https://shuffle.dev/)
 - [Landing Page Templates](https://htmlrev.com/)
+- [Degreeless Design](https://www.degreeless.design)
 
 ## Infrastructure
 
