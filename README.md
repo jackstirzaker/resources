@@ -457,4 +457,4 @@
 - [Winstatic: Tailwind and Alpine.js](https://windstatic.com/)
 - [Dylan Brouwer Design](https://www.dylanbrouwer.design/)
 - [Coding own AI with Fastai](https://wweb.dev/blog/coding-your-own-ai-2023-with-fastai/)
-
+- [Trogon] (https://github.com/Textualize/trogon)
