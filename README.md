@@ -38,6 +38,7 @@
 - [Apprise Push Notifs](https://github.com/caronc/apprise)
 - [FAST Web Components](https://www.fast.design/)
 - [Lit.dev Web Components](https://lit.dev/)
+- [React Ecosystem in 2023](https://www.builder.io/blog/react-js-in-2023)
 
 ### Tailwind
 
