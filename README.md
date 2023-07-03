@@ -346,6 +346,7 @@
 - [Creative South '23](https://www.creativesouth.com/)
 - [j-me Original Design](https://www.j-me.com/)
 - [Thomas Van Tuy](https://www.thomasvantuycom.com)
+- [Claudio Holanda](https://claudioholanda.ch/en/)
 
 ## Articles & Resources
 
