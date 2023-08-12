@@ -473,3 +473,20 @@
 - [Checklist Design](https://www.checklist.design/)
 - [Learn C](https://www.learn-c.org/)
 - [PageSpeed Insights](https://pagespeed.web.dev/)
+- https://catskull.net/html.html
+- https://www.artificialworlds.net/blog/2022/07/06/building-cross-platform-rust-for-web-android-and-ios-a-minimal-example/
+- https://github.com/mitsuhiko/self-replace
+- https://www.thomasvantuycom.com/writing/simpler-cookie-notices/
+- https://www.smashingmagazine.com/2023/04/potentially-dangerous-non-accessibility-cookie-notices/
+- https://leerob.io/blog/developer-experience-examples
+- https://frontendmastery.com/posts/the-new-wave-of-javascript-web-frameworks/
+- https://github.com/AmruthPillai/Reactive-Resume
+- https://www.smashingmagazine.com/2021/09/interactive-learning-tools-front-end-developers/
+- https://www.flavienbonvin.com/beginners-shouldnt-learn-react-here-is-how-to-learn-web-programming-instead/
+- https://bradfrost.com/blog/post/my-struggle-to-learn-react/
+- https://localghost.dev/blog/building-a-website-like-it-s-1999-in-2022/
+- https://wpklik.com/wordpress-tips/web-design-resources
+- https://uxdesign.cc/design-principles-why-a-design-works-a572c5d2d92d
+- https://uxdesign.cc/introducing-mercury-os-f4de45a04289
+- http://laurent.fyi/
+- https://anthonyhobday.com/blog/20230101.html
