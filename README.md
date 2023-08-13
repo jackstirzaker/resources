@@ -490,3 +490,6 @@
 - https://uxdesign.cc/introducing-mercury-os-f4de45a04289
 - http://laurent.fyi/
 - https://anthonyhobday.com/blog/20230101.html
+- [Alexander Obenauer](https://alexanderobenauer.com/)
+- [Dolly 2.0](https://www.databricks.com/blog/2023/04/12/dolly-first-open-commercially-viable-instruction-tuned-llm)
+- [WinBox JS](https://github.com/nextapps-de/winbox)
