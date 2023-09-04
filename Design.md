@@ -3,7 +3,7 @@
 
 ### Curated Lists
 
-- [Spark Joy: Design Flair](https://github.com/sw-yx/spark-joy) - a curated list of design flair resources (GitHub)
+- [Spark Joy](https://github.com/sw-yx/spark-joy) - a curated list of design flair resources (GitHub)
 - [Curated List of Design Resources](https://github.com/MohamedYoussouf/Design-Resources) - includes design templates, stock photos, icons, colors, etc.
 - [Design Gems](https://www.designgems.co/) - collection of design resources
 - [Glance](https://www.glance.fyi/) - a collection of real websites that are effective examples of good design
