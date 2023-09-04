@@ -41,6 +41,7 @@
    - [Alternate Column Scroll](https://tympanus.net/codrops/2021/12/21/alternate-column-scroll-animation/) - design that scrolls in opposite directions
    - [Create the Stripe Website Gradient](https://kevinhufnagl.com/how-to-stripe-website-gradient-effect/) - tutorial and downloadable guide to replicating Stripe's hero
    - [Skeleton Loading Animation](https://dev.to/shantanu_jana/skeleton-screen-loading-animation-using-html-css-1ec3) - make loading elements appear more elegant
+   - [Bézier Curves](https://blog.richardekwonye.com/bezier-curves) - how they are used in CSS to make animations and SVGs work
 + ### Code
    - [What makes good error codes?](https://www.morling.dev/blog/whats-in-a-good-error-message) - guide to making errors more user and developer friendly
    - [Compress an Image Before Upload](https://pqina.nl/blog/compress-image-before-upload/) - would help to save space on the server
