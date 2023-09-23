@@ -155,4 +155,5 @@
 - [Pinecone](https://www.pinecone.io/)
 - [Vintage Agency](https://vintage.agency/)
 - [Laurent Del Rey](https://laurent.fyi)
-- [https://www.richardekwonye.com/](https://www.richardekwonye.com/)
+- [Richard Ekwonye](https://www.richardekwonye.com/)
+- [Evervault](https://evervault.com/)
