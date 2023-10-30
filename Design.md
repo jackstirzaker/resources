@@ -157,3 +157,5 @@
 - [Laurent Del Rey](https://laurent.fyi)
 - [Richard Ekwonye](https://www.richardekwonye.com/)
 - [Evervault](https://evervault.com/)
+- [Deeo Studio](https://deeo.studio/)
+
